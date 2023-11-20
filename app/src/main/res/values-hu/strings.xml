@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="continue_game">Folytatás</string>
+    <string name="new_game">Új játék</string>
+    <string name="easy">Könnyő</string>
+    <string name="medium">Közepes</string>
+    <string name="hard">Nehéz</string>
+    <string name="back">Vissza</string>
+    <string name="congratulations">Gratulálok!</string>
+    <string name="your_time">Az időd:</string>
+    <string name="pb_time">Legjobb idő:</string>
+    <string name="new_pb">Új legjobb idő!</string>
+    <string name="difficulty">Nehézség:</string>
+    <string name="back_to_menu">Vissza a menübe</string>
+    <string name="settings">Beállítások</string>
+    <string name="assists_header">Segítségek</string>
+    <string name="highlights_title">Kiemelés</string>
+    <string name="highlights_summary_off">A kiválasztott számot tartalmazó cellák kijelölése kikapcsolva.</string>
+    <string name="highlights_summary_on">A kiválasztott számot tartalmazó cellák kijelölése bekapcsolva.</string>
+    <string name="contact">Kapcsolat</string>
+    <string name="remaining_title">Hátralevő</string>
+    <string name="remaining_summary_off">A kiválasztott számot tartalmazó hátralévő cellák száma elrejtve.</string>
+    <string name="remaining_summary_on">A kiválasztott számot tartalmazó hátralévő cellák száma megjelenítve.</string>
+    <string name="very_hard">Nagyon nehéz</string>
+</resources>

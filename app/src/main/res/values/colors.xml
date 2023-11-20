@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_gray">#BFBFBF</color>
+    <color name="middle_gray">#808080</color>
+    <color name="dark_gray">#4C4C4C</color>
+    <color name="darker_gray">#333333</color>
+
+    <color name="background">@color/white</color>
+    <color name="foreground">@color/black</color>
+    <color name="primary">@color/white</color>
+    <color name="accent">@color/light_gray</color>
+
+    <color name="background_gray">@color/light_gray</color>
+    <color name="foreground_gray">@color/dark_gray</color>
+
+    <color name="status_bar">@color/black</color>
+    <color name="grid">@color/black</color>
+
+    <color name="selected_cell_background">@color/light_gray</color>
+</resources>

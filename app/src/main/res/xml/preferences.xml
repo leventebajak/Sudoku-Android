@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <Preference
+        android:key="back_to_menu"
+        app:title="@string/back_to_menu" />
+
+    <PreferenceCategory app:title="@string/assists_header">
+
+        <SwitchPreference
+            app:defaultValue="true"
+            app:key="highlights"
+            app:summaryOff="@string/highlights_summary_off"
+            app:summaryOn="@string/highlights_summary_on"
+            app:title="@string/highlights_title" />
+
+        <SwitchPreference
+            app:defaultValue="true"
+            app:key="remaining"
+            app:summaryOff="@string/remaining_summary_off"
+            app:summaryOn="@string/remaining_summary_on"
+            app:title="@string/remaining_title" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/contact">
+
+        <Preference
+            app:key="email"
+            app:summary="@string/email_address"
+            app:title="@string/email" />
+        <Preference
+            app:key="github"
+            app:summary="@string/github_username"
+            app:title="@string/github" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

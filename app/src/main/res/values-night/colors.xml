@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">@color/black</color>
+    <color name="foreground">@color/white</color>
+    <color name="primary">@color/black</color>
+    <color name="accent">@color/dark_gray</color>
+
+    <color name="background_gray">@color/dark_gray</color>
+    <color name="foreground_gray">@color/light_gray</color>
+
+    <color name="status_bar">@color/black</color>
+    <color name="grid">@color/middle_gray</color>
+
+    <color name="selected_cell_background">@color/darker_gray</color>
+</resources>
